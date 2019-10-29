@@ -1,0 +1,7 @@
+{
+    "name": "Go heroku server",
+    "description": "A simple webserver with websocket capabillities",
+    "keywords": ["getting-started", "go", "Heroku", "web server", "websockets"],
+    "website": "http://emilhein.github.io/",
+    "repository": "http://github.com/emilhein/go-heroku-server"
+}
